@@ -1,4 +1,4 @@
-package br.com.cpqi.demo;
+package br.com.leoon.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

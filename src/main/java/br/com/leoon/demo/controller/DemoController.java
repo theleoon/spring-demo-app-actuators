@@ -1,4 +1,4 @@
-package br.com.cpqi.demo.controller;
+package br.com.leoon.demo.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
